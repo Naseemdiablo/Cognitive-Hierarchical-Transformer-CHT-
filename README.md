@@ -1,16 +1,3 @@
-Table of Contents
-Introduction
-Core Principles
-Architectural Components
-Training and Optimization
-Implementation Strategy
-Advantages
-Potential Challenges
-Getting Involved
-Contribution Guidelines
-Project Structure
-References
-License
 
 
 Introduction
